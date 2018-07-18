@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "321758575585",
+    "firebase_url": "https://practice-fc328.firebaseio.com",
+    "project_id": "practice-fc328",
+    "storage_bucket": "practice-fc328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321758575585:android:f81e86b4e1812d71",
+        "android_client_info": {
+          "package_name": "com.example.rohil.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321758575585-3pofeij3i84lvnb3c7ovdds6uvq9en6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohil.firebasechat",
+            "certificate_hash": "78e5e87c25d8bde642cc5f423787d1b7415e17e6"
+          }
+        },
+        {
+          "client_id": "321758575585-ge7skcdnrt204jquhq5d8ln3dc54fum4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "321758575585-utvj6hg0pnn0h07vn69n8f1famr04ggj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiYG3dkLinWwLCfnsUbpATNf6tsZr7m5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321758575585-ge7skcdnrt204jquhq5d8ln3dc54fum4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
